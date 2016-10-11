@@ -1,1 +1,1 @@
-# palette
+# palette with Qt5
